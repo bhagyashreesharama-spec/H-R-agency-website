@@ -864,3 +864,29 @@ footer a:hover {
         gap: 35px;
     }
 }
+/* ================= BLOG TEXT FIX ================= */
+
+.blog {
+    background: #f4f7fa;
+    color: #0a1626;
+}
+
+.blog .section-heading h2 {
+    color: #0a1626;
+}
+
+.blog .section-heading > p {
+    color: #657386;
+}
+
+.blog-grid h3 {
+    color: #0a1626;
+}
+
+.blog-grid p {
+    color: #68778a;
+}
+
+.blog-grid article {
+    color: #0a1626;
+}
